@@ -1,0 +1,22 @@
+# ApiDocumentation.SymptomDTO
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **Number** |  | [optional] 
+**name** | **String** |  | [optional] 
+**symptomType** | **String** |  | [optional] 
+
+
+
+## Enum: SymptomTypeEnum
+
+
+* `NUMERICAL` (value: `"NUMERICAL"`)
+
+* `STRING` (value: `"STRING"`)
+
+
+
+
